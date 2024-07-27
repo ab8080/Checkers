@@ -1,7 +1,5 @@
 # Homework #2: OOP in Java
 
-**Contest Link:** [Yandex Contest](https://contest.yandex.ru/contest/40657)
-
 ## Technical Details
 
 To submit the assignment to the contest, you need to upload a compiled Jar file instead of the code. This Jar should also contain a `MANIFEST.MF` file specifying the class with the `main()` method.
